@@ -5,7 +5,7 @@
   <h3> I’m interested in C++, Python, Machine Learning & SQL!</h3>
   <h3> I’m currently learning Data Structures & Algorithms!</h3>
   <h3 Contact Me: </h3>
-  <h2><a href="https://www.linkedin.com/in/bhavya-kakwani-051a14142"LinkedIn</a></h2>
+  <h2><a href="https://www.linkedin.com/in/bhavya-kakwani-051a14142">LinkedIn</a></h2>
 </div>
 <br>
 
